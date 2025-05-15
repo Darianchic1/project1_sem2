@@ -1,0 +1,13 @@
+requests
+pandas
+plotly
+geopandas
+scipy
+folium
+streamlit
+selenium
+webdriver_manager
+beautifulsoup4
+matplotlib
+seaborn
+statsmodels
