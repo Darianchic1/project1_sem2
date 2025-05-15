@@ -10,13 +10,11 @@
 
 1. Установите необходимые библиотеки:
    
-bash
-   pip install -r requirements.txt
+pip install -r requirements.txt
 
 2. Перейдите в папку scripts и запустите файл main.py:
    
-bash
-   python main.py
+python main.py
 
 В результате в папку data будет загружен файл popular_destination.csv.
 
@@ -26,7 +24,6 @@ bash
 
 4. Перейдите в папку dashboards и запустите файл app.py командой:
    
-bash
-   python -m streamlit run dashboards/app.py
+python -m streamlit run dashboards/app.py
    
 Запустится страница с итоговым дашбордом.
